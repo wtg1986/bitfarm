@@ -1,0 +1,174 @@
+
+line_scatter.jpg
+size: 1800,3600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line columnC_00016
+  rotate: false
+  xy: 360, 2880
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00007
+  rotate: false
+  xy: 0, 0
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00005
+  rotate: false
+  xy: 360, 0
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00019
+  rotate: false
+  xy: 1080, 720
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00010
+  rotate: false
+  xy: 360, 720
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00021
+  rotate: false
+  xy: 0, 1440
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00017
+  rotate: false
+  xy: 1440, 2160
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00001
+  rotate: false
+  xy: 720, 0
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00018
+  rotate: false
+  xy: 0, 720
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00020
+  rotate: false
+  xy: 720, 1440
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00004
+  rotate: false
+  xy: 1440, 1440
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00022
+  rotate: false
+  xy: 1080, 2160
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00000
+  rotate: false
+  xy: 720, 2880
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00012
+  rotate: false
+  xy: 720, 2160
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00013
+  rotate: false
+  xy: 1080, 0
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00003
+  rotate: false
+  xy: 360, 2160
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00023
+  rotate: false
+  xy: 1440, 720
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00009
+  rotate: false
+  xy: 1080, 1440
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00006
+  rotate: false
+  xy: 360, 1440
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00014
+  rotate: false
+  xy: 1440, 0
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00008
+  rotate: false
+  xy: 0, 2160
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00015
+  rotate: false
+  xy: 0, 2880
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00002
+  rotate: false
+  xy: 1080, 2880
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1
+line columnC_00011
+  rotate: false
+  xy: 720, 720
+  size: 360, 720
+  orig: 360, 720
+  offset: 0, 0
+  index: -1

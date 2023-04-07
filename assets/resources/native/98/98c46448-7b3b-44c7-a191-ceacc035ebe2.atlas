@@ -1,0 +1,97 @@
+
+ExWild.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Khung
+  rotate: false
+  xy: 2, 267
+  size: 192, 539
+  orig: 192, 539
+  offset: 0, 0
+  index: -1
+Layer 274
+  rotate: true
+  xy: 196, 595
+  size: 139, 205
+  orig: 139, 205
+  offset: 0, 0
+  index: -1
+Layer 276
+  rotate: true
+  xy: 2, 96
+  size: 169, 521
+  orig: 170, 545
+  offset: 0, 0
+  index: -1
+Layer 282
+  rotate: false
+  xy: 544, 610
+  size: 53, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Layer 283
+  rotate: true
+  xy: 618, 658
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+Layer 284
+  rotate: true
+  xy: 510, 527
+  size: 74, 205
+  orig: 74, 205
+  offset: 0, 0
+  index: -1
+Layer 285
+  rotate: false
+  xy: 196, 370
+  size: 83, 223
+  orig: 83, 223
+  offset: 0, 0
+  index: -1
+Layer 60
+  rotate: true
+  xy: 403, 603
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+Layer 62 copy
+  rotate: false
+  xy: 544, 663
+  size: 72, 71
+  orig: 73, 72
+  offset: 1, 0
+  index: -1
+Layer 74
+  rotate: false
+  xy: 281, 484
+  size: 80, 109
+  orig: 80, 122
+  offset: 0, 7
+  index: -1
+Tay Ngoai
+  rotate: true
+  xy: 687, 732
+  size: 74, 119
+  orig: 82, 129
+  offset: 8, 10
+  index: -1
+Tay Trong
+  rotate: true
+  xy: 403, 514
+  size: 87, 105
+  orig: 87, 109
+  offset: 0, 4
+  index: -1
+bachia
+  rotate: true
+  xy: 196, 736
+  size: 70, 489
+  orig: 70, 490
+  offset: 0, 0
+  index: -1

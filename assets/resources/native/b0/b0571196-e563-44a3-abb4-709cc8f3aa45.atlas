@@ -1,0 +1,174 @@
+
+symbol-win.jpg
+size: 560,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linewin_00011
+  rotate: false
+  xy: 140, 700
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00009
+  rotate: false
+  xy: 140, 140
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00003
+  rotate: false
+  xy: 140, 0
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00022
+  rotate: false
+  xy: 140, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00017
+  rotate: false
+  xy: 280, 280
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00008
+  rotate: false
+  xy: 0, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00012
+  rotate: false
+  xy: 0, 0
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00020
+  rotate: false
+  xy: 0, 700
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00013
+  rotate: false
+  xy: 280, 0
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00000
+  rotate: false
+  xy: 280, 420
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00002
+  rotate: false
+  xy: 140, 420
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00019
+  rotate: false
+  xy: 140, 840
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00014
+  rotate: false
+  xy: 420, 140
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00021
+  rotate: false
+  xy: 0, 420
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00006
+  rotate: false
+  xy: 420, 280
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00007
+  rotate: false
+  xy: 280, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00015
+  rotate: false
+  xy: 0, 140
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00023
+  rotate: false
+  xy: 0, 840
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00005
+  rotate: false
+  xy: 0, 280
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00018
+  rotate: false
+  xy: 280, 700
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00001
+  rotate: false
+  xy: 280, 140
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00004
+  rotate: false
+  xy: 420, 0
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00016
+  rotate: false
+  xy: 280, 840
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+linewin_00010
+  rotate: false
+  xy: 140, 280
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

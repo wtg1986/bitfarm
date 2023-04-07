@@ -1,0 +1,174 @@
+
+vfx_exwild.jpg
+size: 950,1800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effet_exWild_00005
+  rotate: false
+  xy: 760, 720
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00003
+  rotate: false
+  xy: 760, 1080
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00007
+  rotate: false
+  xy: 760, 360
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00013
+  rotate: false
+  xy: 0, 1440
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00014
+  rotate: false
+  xy: 380, 360
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00015
+  rotate: false
+  xy: 190, 0
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00002
+  rotate: false
+  xy: 380, 1440
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00010
+  rotate: false
+  xy: 570, 1080
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00023
+  rotate: false
+  xy: 0, 360
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00004
+  rotate: false
+  xy: 0, 0
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00012
+  rotate: false
+  xy: 190, 1440
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00008
+  rotate: false
+  xy: 760, 0
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00006
+  rotate: false
+  xy: 570, 360
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00016
+  rotate: false
+  xy: 190, 720
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00001
+  rotate: false
+  xy: 0, 720
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00019
+  rotate: false
+  xy: 570, 1440
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00011
+  rotate: false
+  xy: 380, 0
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00018
+  rotate: false
+  xy: 190, 1080
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00020
+  rotate: false
+  xy: 190, 360
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00017
+  rotate: false
+  xy: 570, 720
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00022
+  rotate: false
+  xy: 570, 0
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00009
+  rotate: false
+  xy: 380, 1080
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00021
+  rotate: false
+  xy: 380, 720
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1
+effet_exWild_00000
+  rotate: false
+  xy: 0, 1080
+  size: 190, 360
+  orig: 190, 360
+  offset: 0, 0
+  index: -1

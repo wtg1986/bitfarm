@@ -1,0 +1,139 @@
+
+ItemJackpot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot1
+  rotate: false
+  xy: 144, 263
+  size: 18, 77
+  orig: 20, 87
+  offset: 2, 0
+  index: -1
+Jackpot_10
+  rotate: false
+  xy: 2, 342
+  size: 168, 164
+  orig: 171, 166
+  offset: 2, 1
+  index: -1
+Jackpot_11
+  rotate: false
+  xy: 164, 281
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+Jackpot_12
+  rotate: false
+  xy: 341, 327
+  size: 124, 43
+  orig: 126, 45
+  offset: 1, 1
+  index: -1
+Jackpot_13
+  rotate: false
+  xy: 164, 229
+  size: 53, 50
+  orig: 55, 52
+  offset: 1, 1
+  index: -1
+Jackpot_14
+  rotate: false
+  xy: 467, 298
+  size: 37, 34
+  orig: 39, 36
+  offset: 1, 1
+  index: -1
+Jackpot_15
+  rotate: true
+  xy: 467, 334
+  size: 36, 39
+  orig: 38, 41
+  offset: 1, 1
+  index: -1
+Jackpot_16
+  rotate: true
+  xy: 219, 232
+  size: 47, 51
+  orig: 49, 53
+  offset: 1, 1
+  index: -1
+Jackpot_17
+  rotate: true
+  xy: 280, 278
+  size: 61, 53
+  orig: 69, 58
+  offset: 4, 1
+  index: -1
+Jackpot_18
+  rotate: false
+  xy: 341, 372
+  size: 140, 134
+  orig: 140, 134
+  offset: 0, 0
+  index: -1
+Jackpot_19
+  rotate: false
+  xy: 172, 341
+  size: 167, 165
+  orig: 169, 167
+  offset: 1, 1
+  index: -1
+Jackpot_2
+  rotate: true
+  xy: 335, 261
+  size: 29, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Jackpot_20
+  rotate: false
+  xy: 2, 201
+  size: 140, 139
+  orig: 142, 141
+  offset: 1, 1
+  index: -1
+Jackpot_3
+  rotate: true
+  xy: 335, 292
+  size: 33, 36
+  orig: 37, 38
+  offset: 2, 1
+  index: -1
+Jackpot_4
+  rotate: true
+  xy: 411, 294
+  size: 31, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+Jackpot_5
+  rotate: true
+  xy: 449, 265
+  size: 31, 36
+  orig: 35, 38
+  offset: 2, 1
+  index: -1
+Jackpot_6
+  rotate: true
+  xy: 373, 261
+  size: 30, 36
+  orig: 34, 38
+  offset: 2, 1
+  index: -1
+Jackpot_7
+  rotate: true
+  xy: 373, 293
+  size: 32, 36
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+Jackpot_8
+  rotate: true
+  xy: 411, 261
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1

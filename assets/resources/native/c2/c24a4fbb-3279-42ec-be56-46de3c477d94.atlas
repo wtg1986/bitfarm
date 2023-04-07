@@ -1,0 +1,76 @@
+
+Treasure.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot1
+  rotate: true
+  xy: 331, 43
+  size: 18, 77
+  orig: 20, 87
+  offset: 2, 0
+  index: -1
+Jackpot_13
+  rotate: true
+  xy: 230, 8
+  size: 53, 50
+  orig: 55, 52
+  offset: 1, 1
+  index: -1
+Jackpot_14
+  rotate: true
+  xy: 369, 4
+  size: 37, 34
+  orig: 39, 36
+  offset: 1, 1
+  index: -1
+Jackpot_15
+  rotate: false
+  xy: 331, 2
+  size: 36, 39
+  orig: 38, 41
+  offset: 1, 1
+  index: -1
+Jackpot_16
+  rotate: false
+  xy: 282, 10
+  size: 47, 51
+  orig: 49, 53
+  offset: 1, 1
+  index: -1
+Treasure_1
+  rotate: true
+  xy: 2, 49
+  size: 223, 130
+  orig: 225, 132
+  offset: 1, 1
+  index: -1
+Treasure_2
+  rotate: false
+  xy: 134, 154
+  size: 229, 118
+  orig: 231, 120
+  offset: 1, 1
+  index: -1
+Treasure_3
+  rotate: false
+  xy: 134, 63
+  size: 228, 89
+  orig: 229, 89
+  offset: 1, 0
+  index: -1
+Treasure_5
+  rotate: false
+  xy: 2, 9
+  size: 226, 38
+  orig: 226, 38
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 274
+  size: 734, 744
+  orig: 740, 749
+  offset: 5, 5
+  index: -1
