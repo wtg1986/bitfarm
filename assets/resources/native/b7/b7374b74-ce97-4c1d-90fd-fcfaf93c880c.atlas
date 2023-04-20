@@ -1,0 +1,111 @@
+
+Bonus_Ga.png
+size: 1191,1191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chicken_1
+  rotate: false
+  xy: 125, 11
+  size: 122, 55
+  orig: 126, 59
+  offset: 2, 2
+  index: -1
+Chicken_10
+  rotate: false
+  xy: 930, 33
+  size: 82, 73
+  orig: 86, 77
+  offset: 2, 2
+  index: -1
+Chicken_11
+  rotate: false
+  xy: 1014, 34
+  size: 82, 72
+  orig: 86, 76
+  offset: 2, 2
+  index: -1
+Chicken_12
+  rotate: false
+  xy: 808, 602
+  size: 381, 279
+  orig: 385, 284
+  offset: 2, 3
+  index: -1
+Chicken_13
+  rotate: true
+  xy: 1005, 953
+  size: 236, 160
+  orig: 236, 160
+  offset: 0, 0
+  index: -1
+Chicken_14
+  rotate: false
+  xy: 533, 309
+  size: 415, 263
+  orig: 415, 263
+  offset: 0, 0
+  index: -1
+Chicken_2
+  rotate: true
+  xy: 533, 30
+  size: 277, 395
+  orig: 442, 395
+  offset: 0, 0
+  index: -1
+Chicken_3
+  rotate: true
+  xy: 1005, 885
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+Chicken_4
+  rotate: true
+  xy: 2, 10
+  size: 56, 121
+  orig: 56, 121
+  offset: 0, 0
+  index: -1
+Chicken_5
+  rotate: false
+  xy: 351, 574
+  size: 455, 307
+  orig: 455, 307
+  offset: 0, 0
+  index: -1
+Chicken_6
+  rotate: true
+  xy: 950, 355
+  size: 245, 233
+  orig: 245, 233
+  offset: 0, 0
+  index: -1
+Chicken_7
+  rotate: false
+  xy: 2, 68
+  size: 529, 466
+  orig: 529, 466
+  offset: 0, 0
+  index: -1
+Chicken_8
+  rotate: true
+  xy: 950, 108
+  size: 245, 233
+  orig: 245, 233
+  offset: 0, 0
+  index: -1
+VO_1
+  rotate: false
+  xy: 2, 536
+  size: 347, 653
+  orig: 351, 657
+  offset: 2, 2
+  index: -1
+VO_2
+  rotate: true
+  xy: 351, 883
+  size: 306, 652
+  orig: 310, 658
+  offset: 2, 3
+  index: -1

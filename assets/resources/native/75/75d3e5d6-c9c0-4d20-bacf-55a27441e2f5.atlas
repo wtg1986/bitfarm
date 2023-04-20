@@ -1,0 +1,167 @@
+
+FreeSpinEnd.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elon2_BTay_2
+  rotate: true
+  xy: 542, 243
+  size: 126, 219
+  orig: 141, 224
+  offset: 2, 2
+  index: -1
+Elon2_Ctay_1
+  rotate: true
+  xy: 321, 170
+  size: 187, 219
+  orig: 187, 219
+  offset: 0, 0
+  index: -1
+Elon2_Ctay_2
+  rotate: false
+  xy: 703, 568
+  size: 149, 121
+  orig: 153, 129
+  offset: 2, 2
+  index: -1
+Elon2_tay1
+  rotate: true
+  xy: 763, 261
+  size: 145, 95
+  orig: 149, 110
+  offset: 2, 2
+  index: -1
+Elon_Ao Ngoai
+  rotate: false
+  xy: 128, 84
+  size: 191, 294
+  orig: 258, 294
+  offset: 0, 0
+  index: -1
+Elon_Ao Trong
+  rotate: false
+  xy: 345, 684
+  size: 263, 294
+  orig: 267, 298
+  offset: 2, 2
+  index: -1
+Elon_BChan_1
+  rotate: false
+  xy: 262, 464
+  size: 71, 195
+  orig: 75, 200
+  offset: 2, 3
+  index: -1
+Elon_BChan_2
+  rotate: true
+  xy: 644, 408
+  size: 114, 202
+  orig: 114, 202
+  offset: 0, 0
+  index: -1
+Elon_Btay_1
+  rotate: true
+  xy: 610, 691
+  size: 158, 196
+  orig: 158, 196
+  offset: 0, 0
+  index: -1
+Elon_CCHan_1
+  rotate: true
+  xy: 610, 851
+  size: 127, 299
+  orig: 127, 299
+  offset: 0, 0
+  index: -1
+Elon_CCHan_2
+  rotate: false
+  xy: 2, 76
+  size: 124, 302
+  orig: 124, 302
+  offset: 0, 0
+  index: -1
+Elon_Dau
+  rotate: true
+  xy: 489, 524
+  size: 158, 212
+  orig: 158, 243
+  offset: 0, 17
+  index: -1
+Elon_Hong
+  rotate: false
+  xy: 808, 736
+  size: 157, 113
+  orig: 157, 113
+  offset: 0, 0
+  index: -1
+Elon_MU
+  rotate: false
+  xy: 2, 380
+  size: 258, 279
+  orig: 258, 279
+  offset: 0, 0
+  index: -1
+Elon_Quai ao
+  rotate: false
+  xy: 489, 371
+  size: 153, 151
+  orig: 164, 155
+  offset: 2, 2
+  index: -1
+Pig_1
+  rotate: true
+  xy: 317, 391
+  size: 40, 17
+  orig: 44, 21
+  offset: 2, 2
+  index: -1
+Pig_2
+  rotate: false
+  xy: 317, 433
+  size: 26, 29
+  orig: 30, 33
+  offset: 2, 2
+  index: -1
+Pig_3
+  rotate: false
+  xy: 848, 424
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+Pig_6
+  rotate: true
+  xy: 848, 481
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+Pig_7
+  rotate: false
+  xy: 2, 661
+  size: 341, 317
+  orig: 341, 317
+  offset: 0, 0
+  index: -1
+Pig_8
+  rotate: true
+  xy: 911, 876
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1
+Pig_9
+  rotate: false
+  xy: 262, 402
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+shadow1
+  rotate: true
+  xy: 345, 359
+  size: 323, 142
+  orig: 351, 168
+  offset: 14, 13
+  index: -1

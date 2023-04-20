@@ -1,0 +1,55 @@
+
+Ngo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ngo_2
+  rotate: false
+  xy: 2, 2
+  size: 89, 233
+  orig: 89, 233
+  offset: 0, 0
+  index: -1
+Ngo_3
+  rotate: true
+  xy: 282, 289
+  size: 212, 149
+  orig: 212, 149
+  offset: 0, 0
+  index: -1
+Ngo_4
+  rotate: true
+  xy: 282, 44
+  size: 243, 113
+  orig: 243, 113
+  offset: 0, 0
+  index: -1
+Ngo_5
+  rotate: false
+  xy: 2, 237
+  size: 278, 264
+  orig: 278, 264
+  offset: 0, 0
+  index: -1
+Ngo_6
+  rotate: true
+  xy: 93, 131
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+Ngo_7
+  rotate: true
+  xy: 93, 36
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+Ngo_8
+  rotate: false
+  xy: 172, 70
+  size: 47, 59
+  orig: 48, 60
+  offset: 0, 1
+  index: -1

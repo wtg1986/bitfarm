@@ -1,0 +1,111 @@
+
+dog.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dog_10
+  rotate: true
+  xy: 153, 108
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Dog_11
+  rotate: true
+  xy: 210, 185
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Dog_12
+  rotate: true
+  xy: 286, 149
+  size: 189, 127
+  orig: 215, 127
+  offset: 26, 0
+  index: -1
+Dog_13
+  rotate: false
+  xy: 209, 100
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+Dog_14
+  rotate: true
+  xy: 94, 109
+  size: 119, 57
+  orig: 253, 57
+  offset: 134, 0
+  index: -1
+Dog_15
+  rotate: false
+  xy: 2, 230
+  size: 282, 280
+  orig: 282, 280
+  offset: 0, 0
+  index: -1
+Dog_2
+  rotate: true
+  xy: 70, 21
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+Dog_3
+  rotate: false
+  xy: 2, 69
+  size: 66, 70
+  orig: 68, 71
+  offset: 1, 1
+  index: -1
+Dog_31
+  rotate: true
+  xy: 2, 141
+  size: 87, 90
+  orig: 108, 108
+  offset: 10, 11
+  index: -1
+Dog_4
+  rotate: true
+  xy: 415, 110
+  size: 228, 77
+  orig: 228, 77
+  offset: 0, 0
+  index: -1
+Dog_5
+  rotate: true
+  xy: 457, 427
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+Dog_6
+  rotate: false
+  xy: 2, 39
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Dog_7
+  rotate: true
+  xy: 457, 342
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+Dog_8
+  rotate: false
+  xy: 153, 172
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Dog_9
+  rotate: true
+  xy: 286, 340
+  size: 170, 169
+  orig: 170, 169
+  offset: 0, 0
+  index: -1

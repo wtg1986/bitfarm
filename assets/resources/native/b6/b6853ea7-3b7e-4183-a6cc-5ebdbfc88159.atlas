@@ -1,0 +1,41 @@
+
+Eff_Win.png
+size: 1480,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin
+  rotate: false
+  xy: 779, 490
+  size: 699, 192
+  orig: 707, 201
+  offset: 4, 5
+  index: -1
+light1
+  rotate: false
+  xy: 2, 182
+  size: 775, 500
+  orig: 775, 500
+  offset: 0, 0
+  index: -1
+mega
+  rotate: false
+  xy: 2, 4
+  size: 806, 176
+  orig: 823, 192
+  offset: 9, 8
+  index: -1
+super-mega
+  rotate: false
+  xy: 779, 208
+  size: 643, 280
+  orig: 653, 289
+  offset: 5, 4
+  index: -1
+win
+  rotate: false
+  xy: 810, 2
+  size: 434, 204
+  orig: 443, 213
+  offset: 5, 4
+  index: -1

@@ -1,0 +1,83 @@
+
+Bonus_Egg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EggOpen_1
+  rotate: false
+  xy: 2, 425
+  size: 604, 587
+  orig: 608, 591
+  offset: 2, 2
+  index: -1
+EggOpen_10
+  rotate: true
+  xy: 2, 283
+  size: 140, 129
+  orig: 140, 140
+  offset: 0, 11
+  index: -1
+EggOpen_11
+  rotate: false
+  xy: 832, 295
+  size: 114, 110
+  orig: 120, 111
+  offset: 1, 0
+  index: -1
+EggOpen_12
+  rotate: false
+  xy: 133, 308
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+EggOpen_13
+  rotate: true
+  xy: 213, 368
+  size: 55, 59
+  orig: 59, 63
+  offset: 2, 2
+  index: -1
+EggOpen_14
+  rotate: true
+  xy: 960, 292
+  size: 158, 27
+  orig: 162, 31
+  offset: 2, 2
+  index: -1
+EggOpen_2
+  rotate: true
+  xy: 608, 631
+  size: 381, 404
+  orig: 392, 421
+  offset: 4, 13
+  index: -1
+EggOpen_4
+  rotate: true
+  xy: 960, 452
+  size: 177, 52
+  orig: 182, 56
+  offset: 2, 2
+  index: -1
+EggOpen_5
+  rotate: true
+  xy: 608, 454
+  size: 175, 222
+  orig: 179, 226
+  offset: 2, 2
+  index: -1
+EggOpen_7
+  rotate: true
+  xy: 608, 341
+  size: 111, 222
+  orig: 115, 227
+  offset: 2, 3
+  index: -1
+EggOpen_8
+  rotate: false
+  xy: 832, 407
+  size: 126, 222
+  orig: 130, 227
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,83 @@
+
+CaChua.png
+size: 356,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CaChua_1
+  rotate: false
+  xy: 2, 2
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+CaChua_10
+  rotate: false
+  xy: 213, 12
+  size: 98, 35
+  orig: 98, 35
+  offset: 0, 0
+  index: -1
+CaChua_11
+  rotate: false
+  xy: 2, 99
+  size: 299, 255
+  orig: 299, 256
+  offset: 0, 1
+  index: -1
+CaChua_2
+  rotate: false
+  xy: 288, 49
+  size: 43, 41
+  orig: 45, 45
+  offset: 1, 2
+  index: -1
+CaChua_3
+  rotate: false
+  xy: 313, 22
+  size: 28, 25
+  orig: 31, 25
+  offset: 2, 0
+  index: -1
+CaChua_4
+  rotate: false
+  xy: 303, 172
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+CaChua_5
+  rotate: true
+  xy: 101, 8
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+CaChua_6
+  rotate: true
+  xy: 213, 49
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+CaChua_7
+  rotate: true
+  xy: 303, 251
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+CaChua_8
+  rotate: false
+  xy: 303, 92
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+CaChua_9
+  rotate: true
+  xy: 168, 11
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1

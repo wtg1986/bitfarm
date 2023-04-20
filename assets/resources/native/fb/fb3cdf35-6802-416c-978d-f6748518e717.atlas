@@ -1,0 +1,41 @@
+
+BiNgo.png
+size: 533,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BiDo_1
+  rotate: true
+  xy: 323, 123
+  size: 123, 158
+  orig: 123, 158
+  offset: 0, 0
+  index: -1
+BiDo_2
+  rotate: false
+  xy: 461, 33
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+BiDo_3
+  rotate: false
+  xy: 323, 24
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1
+BiDo_4
+  rotate: true
+  xy: 483, 164
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+BiDo_5
+  rotate: false
+  xy: 2, 2
+  size: 319, 244
+  orig: 319, 258
+  offset: 0, 14
+  index: -1

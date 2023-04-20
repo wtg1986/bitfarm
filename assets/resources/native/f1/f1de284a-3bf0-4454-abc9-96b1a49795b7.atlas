@@ -1,0 +1,34 @@
+
+Eff_Bonus_FreeSpin.png
+size: 723,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus
+  rotate: true
+  xy: 532, 185
+  size: 610, 189
+  orig: 626, 206
+  offset: 8, 9
+  index: -1
+freespin
+  rotate: true
+  xy: 225, 34
+  size: 761, 177
+  orig: 777, 194
+  offset: 8, 9
+  index: -1
+jackpot
+  rotate: true
+  xy: 2, 2
+  size: 793, 221
+  orig: 804, 230
+  offset: 6, 5
+  index: -1
+totalwin
+  rotate: true
+  xy: 404, 17
+  size: 778, 126
+  orig: 780, 127
+  offset: 1, 1
+  index: -1

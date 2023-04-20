@@ -1,0 +1,20 @@
+
+CuCai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CuCai_1
+  rotate: false
+  xy: 257, 256
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+CuCai_2
+  rotate: false
+  xy: 2, 112
+  size: 253, 248
+  orig: 253, 248
+  offset: 0, 0
+  index: -1
