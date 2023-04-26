@@ -17,8 +17,7 @@ System.register([], function (_export, _context) {
           _classCallCheck(this, Application);
 
           this.settingsPath = 'src/settings.json';
-          this.effectSettingsPath = 'src/effect.bin';
-          this.showFPS = false;
+          this.showFPS = true;
         }
 
         _createClass(Application, [{
@@ -41,9 +40,8 @@ System.register([], function (_export, _context) {
           key: "start",
           value: function start() {
             return cc.game.init({
-              debugMode: false ? cc.DebugMode.INFO : cc.DebugMode.ERROR,
+              debugMode: true ? cc.DebugMode.INFO : cc.DebugMode.ERROR,
               settingsPath: this.settingsPath,
-              effectSettingsPath: this.effectSettingsPath,
               overrideSettings: {
                 // assets: {
                 //      preloadBundles: [{ bundle: 'main', version: 'xxx' }],

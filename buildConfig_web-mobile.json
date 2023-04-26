@@ -1,0 +1,44 @@
+{
+  "name": "bitfarm",
+  "platform": "web-mobile",
+  "buildPath": "project://build",
+  "debug": false,
+  "md5Cache": false,
+  "skipCompressTexture": false,
+  "sourceMaps": false,
+  "polyfills": {
+    "asyncFunctions": true
+  },
+  "experimentalEraseModules": false,
+  "useBuiltinServer": false,
+  "mainBundleIsRemote": false,
+  "mainBundleCompressionType": "merge_dep",
+  "replaceSplashScreen": true,
+  "startScene": "7016cfa9-fd62-464f-9d7c-d81a07f743f6",
+  "outputName": "web-mobile",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/MainGameScene.scene",
+      "uuid": "7016cfa9-fd62-464f-9d7c-d81a07f743f6",
+      "inBundle": true
+    }
+  ],
+  "web-mobile": [],
+  "packages": {
+    "web-mobile": {
+      "orientation": "portrait",
+      "__version__": "1.0.1"
+    },
+    "cocos-service": {
+      "configID": "36820e",
+      "services": [],
+      "__version__": "3.0.4"
+    },
+    "cocos-build-template": {
+      "enterCocos": "",
+      "__version__": "1.0.0"
+    }
+  },
+  "__version__": "1.3.3",
+  "cocos-version": "3.7.0"
+}
