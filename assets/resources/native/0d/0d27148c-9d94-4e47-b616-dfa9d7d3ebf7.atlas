@@ -1,0 +1,41 @@
+
+spin.png
+size: 639, 700
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dot
+  rotate: false
+  xy: 404, 390
+  size: 79, 79
+  orig: 100, 100
+  offset: 11, 10
+  index: -1
+light2
+  rotate: false
+  xy: 2, 298
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightspin
+  rotate: false
+  xy: 298, 6
+  size: 290, 290
+  orig: 294, 294
+  offset: 2, 2
+  index: -1
+spin
+  rotate: false
+  xy: 2, 2
+  size: 294, 294
+  orig: 304, 304
+  offset: 5, 5
+  index: -1
+spin2
+  rotate: true
+  xy: 404, 471
+  size: 227, 233
+  orig: 240, 240
+  offset: 7, 2
+  index: -1
